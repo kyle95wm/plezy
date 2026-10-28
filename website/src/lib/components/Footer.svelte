@@ -10,7 +10,7 @@
     </div>
 
     <nav class="footer-nav" aria-label="Footer navigation">
-      <a href="https://github.com/edde746/plezy" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a href="https://github.com/kyle95wm/plezy" target="_blank" rel="noopener noreferrer">GitHub</a>
       <a href="/privacy">Privacy</a>
       <a href="#home">Back to top</a>
     </nav>

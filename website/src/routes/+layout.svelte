@@ -17,7 +17,7 @@
 		"name": "Plezy",
 		"url": "https://plezy.app",
 		"logo": "https://plezy.app/og/plezy-social.png",
-		"sameAs": ["https://github.com/edde746/plezy"]
+		"sameAs": ["https://github.com/kyle95wm/plezy"]
 	};
 </script>
 

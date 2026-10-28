@@ -127,7 +127,7 @@
       <h2 id="contact">Contact and changes</h2>
       <p>
         For privacy questions or requests, contact us through the
-        <a href="https://github.com/edde746/plezy" target="_blank" rel="noopener noreferrer">Plezy GitHub project</a>.
+        <a href="https://github.com/kyle95wm/plezy" target="_blank" rel="noopener noreferrer">Plezy GitHub project</a>.
         GitHub activity is public, so do not include passwords, access tokens, support-log IDs, or other sensitive
         information. Material changes to this policy will be posted here with a new date.
       </p>
