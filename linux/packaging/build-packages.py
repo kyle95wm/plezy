@@ -17,7 +17,7 @@ METADATA = {
     "license": "GPL-3.0",
     "vendor": "edde746",
     "maintainer": "edde746 <noreply@github.com>",
-    "url": "https://github.com/edde746/plezy",
+    "url": "https://github.com/kyle95wm/plezy",
     "description": "A modern Plex and Jellyfin client for desktop and mobile",
 }
 

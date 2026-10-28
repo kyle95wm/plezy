@@ -25,7 +25,7 @@ export const MICROSOFT_STORE_URL =
   'https://get.microsoft.com/installer/download/9n5r1s1t68h7?referrer=appbadge&cid=landing';
 
 export const releaseAsset = (name: string) =>
-  `https://github.com/edde746/plezy/releases/latest/download/${name}`;
+  `https://github.com/kyle95wm/plezy/releases/latest/download/${name}`;
 
 export const storeOptions = {
   ios: {

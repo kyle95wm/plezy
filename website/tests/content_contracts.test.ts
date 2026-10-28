@@ -98,7 +98,7 @@ describe('Linux download inventory', () => {
 		expect(new Set(urls).size).toBe(8);
 		expect(
 			urls.every((url) =>
-				url.startsWith('https://github.com/edde746/plezy/releases/latest/download/')
+				url.startsWith('https://github.com/kyle95wm/plezy/releases/latest/download/')
 			)
 		).toBe(true);
 	});

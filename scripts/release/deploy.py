@@ -104,7 +104,7 @@ STATE_PATH = DEPLOY_DIR / "state.json"
 NOTES_DIR = DEPLOY_DIR / "notes"
 ARTIFACTS_DIR = DEPLOY_DIR / "artifacts"
 
-REPO = "edde746/plezy"
+REPO = "kyle95wm/plezy"
 
 PHASES = [
     "preflight",

@@ -26,9 +26,9 @@ A modern client for Plex, Jellyfin, and Emby on desktop, mobile, and TV. Built w
 
 | Platform | Download |
 | --- | --- |
-| macOS | [DMG (x64, arm64)](https://github.com/edde746/plezy/releases/latest/download/plezy-macos.dmg) |
-| Linux x64 | [.deb](https://github.com/edde746/plezy/releases/latest/download/plezy-linux-x64.deb) · [.rpm](https://github.com/edde746/plezy/releases/latest/download/plezy-linux-x64.rpm) · [.pkg.tar.zst](https://github.com/edde746/plezy/releases/latest/download/plezy-linux-x64.pkg.tar.zst) · [.flatpak](https://github.com/edde746/plezy/releases/latest/download/plezy-linux-x64.flatpak) · [portable tar.gz](https://github.com/edde746/plezy/releases/latest/download/plezy-linux-x64.tar.gz) |
-| Linux arm64 | [.deb](https://github.com/edde746/plezy/releases/latest/download/plezy-linux-arm64.deb) · [.rpm](https://github.com/edde746/plezy/releases/latest/download/plezy-linux-arm64.rpm) · [.pkg.tar.zst](https://github.com/edde746/plezy/releases/latest/download/plezy-linux-arm64.pkg.tar.zst) · [.flatpak](https://github.com/edde746/plezy/releases/latest/download/plezy-linux-arm64.flatpak) · [portable tar.gz](https://github.com/edde746/plezy/releases/latest/download/plezy-linux-arm64.tar.gz) |
+| macOS | [DMG (x64, arm64)](https://github.com/kyle95wm/plezy/releases/latest/download/plezy-macos.dmg) |
+| Linux x64 | [.deb](https://github.com/kyle95wm/plezy/releases/latest/download/plezy-linux-x64.deb) · [.rpm](https://github.com/kyle95wm/plezy/releases/latest/download/plezy-linux-x64.rpm) · [.pkg.tar.zst](https://github.com/kyle95wm/plezy/releases/latest/download/plezy-linux-x64.pkg.tar.zst) · [.flatpak](https://github.com/kyle95wm/plezy/releases/latest/download/plezy-linux-x64.flatpak) · [portable tar.gz](https://github.com/kyle95wm/plezy/releases/latest/download/plezy-linux-x64.tar.gz) |
+| Linux arm64 | [.deb](https://github.com/kyle95wm/plezy/releases/latest/download/plezy-linux-arm64.deb) · [.rpm](https://github.com/kyle95wm/plezy/releases/latest/download/plezy-linux-arm64.rpm) · [.pkg.tar.zst](https://github.com/kyle95wm/plezy/releases/latest/download/plezy-linux-arm64.pkg.tar.zst) · [.flatpak](https://github.com/kyle95wm/plezy/releases/latest/download/plezy-linux-arm64.flatpak) · [portable tar.gz](https://github.com/kyle95wm/plezy/releases/latest/download/plezy-linux-arm64.tar.gz) |
 
 <details>
 <summary>Install with a package manager</summary>
@@ -36,7 +36,7 @@ A modern client for Plex, Jellyfin, and Emby on desktop, mobile, and TV. Built w
 ### macOS — Homebrew
 
 ```bash
-brew tap edde746/plezy https://github.com/edde746/plezy
+brew tap kyle95wm/plezy https://github.com/kyle95wm/plezy
 brew install --cask plezy
 ```
 
@@ -229,7 +229,7 @@ On iOS, use the Open URLs action in Shortcuts.
 ### Setup
 
 ```bash
-git clone https://github.com/edde746/plezy.git
+git clone https://github.com/kyle95wm/plezy.git
 cd plezy
 flutter pub get
 scripts/codegen.sh
